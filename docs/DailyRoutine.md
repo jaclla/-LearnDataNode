@@ -1,6 +1,6 @@
 ---
 article: false
-title: 每日仪式
+title: 最新通知
 icon: check
 ---
 
